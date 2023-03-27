@@ -22,7 +22,7 @@ public class PolicyDemo {
     boolean filecontinues = true;
 
     // Open the file for reading.
-    File excerciseFile = new File("F:\\GitHubRepositories\\CSC251-N801\\Project3_JosephPaul_BeloAlmuete\\PolicyInformation.txt");
+    File excerciseFile = new File("PolicyInformation.txt");
     Scanner inputFile = new Scanner(excerciseFile);
 
     while (filecontinues == true) {
